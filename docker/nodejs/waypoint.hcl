@@ -38,7 +38,7 @@ app "ecs-nodejs-web" {
       cluster = "sydney-devops-talk"
       memory = "512"
       count = 1
-      architecture = "arm64"
+      architecture = "ARM64"
     }
   }
 }
